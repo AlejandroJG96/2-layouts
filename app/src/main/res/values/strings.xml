@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Two Screens</string>
+    <string name="Name">Introdueix el nom</string>
+    <string name="Saludar">saludar</string>
+    <string name="missatgesalutacio">Hola %s!!!</string>
+</resources>
